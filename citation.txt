@@ -1,0 +1,7 @@
+@inproceedings{REPO340,
+    author = "Li, Jiachen and Hassani, Ali and Walton, Steven and Shi, Humphrey",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "6306--6315",
+    title = "{ConvMLP: Hierarchical Convolutional MLPs for Vision}",
+    year = "2023"
+}
